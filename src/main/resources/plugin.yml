@@ -1,0 +1,6 @@
+name: AntiFreeCam
+version: '${project.version}'
+main: net.potatoesduck.antifreecam.AntiFreeCam
+api-version: 1.18
+authors: [ Potatoes_Duck ]
+description: Prevents users from using freecam
